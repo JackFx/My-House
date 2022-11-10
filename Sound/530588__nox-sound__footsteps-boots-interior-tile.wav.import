@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/530588__nox-sound__footsteps-boots-interior-tile.wav-50f06b0ebf5b70165fc531fcb9276cc0.sample"
+
+[deps]
+
+source_file="res://Sound/530588__nox-sound__footsteps-boots-interior-tile.wav"
+dest_files=[ "res://.import/530588__nox-sound__footsteps-boots-interior-tile.wav-50f06b0ebf5b70165fc531fcb9276cc0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
